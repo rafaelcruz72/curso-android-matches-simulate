@@ -1,4 +1,4 @@
-# Curso Android - Matches Simulate
+# Curso Android Nativo - Matches Simulate
 
 Projeto de aprendizagem de Layouts UI/UX em Apps Android. Este repositório foi organizado em algumas branches que representam as implementações realizadas durante os contéudos:
 
